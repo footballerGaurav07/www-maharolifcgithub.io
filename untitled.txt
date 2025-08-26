@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Maharoli Football Club</title>
+    <style>
+      body { font-family: Arial; text-align: center; background: #f4f4f4; }
+      header { background: #2c3e50; color: white; padding: 20px; }
+      nav a { margin: 0 15px; color: white; text-decoration: none; }
+      section { padding: 20px; }
+      footer { background: #2c3e50; color: white; padding: 10px; margin-top: 20px; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Maharoli Football Club</h1>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Events</a>
+        <a href="#">Join</a>
+      </nav>
+    </header>
+
+    <section>
+      <h2>Welcome to Our Club</h2>
+      <p>This is our official soccer club website www.maharolifc.github.io</p>
+    </section>
+
+    <footer>
+      <p>© 2025 Maharoli Football Club</p>
+    </footer>
+  </body>
+</html>
